@@ -1,0 +1,1096 @@
+@media (max-width: 575px){
+
+/*===================== 
+navbar-part start
+====================  */
+    #header-top{
+        height: 70px;
+        padding-top: 10px;
+    }
+
+    #header-top .wel{
+        line-height: 0;
+    }
+
+    #header-top .t-c{
+        text-align: center !important;
+    }
+
+    nav{
+        height: 86px;
+    }
+
+    .navbar-collapse{
+        z-index: 222;
+    }
+
+    .navbar{
+        padding: 20px 10px;
+    }
+
+    .navbar .navbar-nav{
+        text-align: center;
+        margin-top: 5px;
+        display: block;
+        background: #ffffff;
+    }
+
+    .navbar .icon{
+        text-align: center;
+        margin-top: 0;
+        background: #ffffff;
+        padding-bottom: 20px;
+    }
+
+    .srch-box input{
+        width: 100%;
+    }
+
+    .srch-box button{
+      left: 90%;
+
+    }
+
+    .srch-box .closebtn{
+        right: 15px;
+    }
+
+    .navbar-toggler{
+        padding: 5px;
+    }
+
+    .navbar .navbar-nav{
+        margin-top: 20px;
+    }
+
+    .navbar ul li{
+        padding: 3px 12px;
+        float: none;
+    }
+
+    /*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+banner-part start 
+====================  */
+#banner-part .banner-text2{
+    font-size: 65px;
+}
+
+#banner-part .banner-text3{
+    letter-spacing: 11px;
+    font-size: 25px;
+}
+
+#banner-part .banner-details{
+    width: 305px;
+}
+
+#banner-part{
+   padding-top: 54px;
+   padding-bottom: 59px;
+}
+/*===================== 
+banner-part end 
+====================  */
+
+/*===================== 
+about-part start 
+====================  */
+
+#about-part{
+    margin-top: 47px;
+}
+
+#about-part .who{
+    text-align: center;
+}
+
+#about-part .about{
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+#about-part .about-details{
+    padding: 0 8px;
+}
+
+#about-part .about-btn{
+    margin-left: 9px;
+    margin-right: 0;
+}
+
+#about-part img{
+    margin-top: 20px;
+}
+
+/*===================== 
+about-part end
+====================  */
+
+/*===================== 
+skill-part starts
+====================  */
+
+#skill-part{
+    background: #ffffff;
+    margin-top: 43px;
+}
+
+#skill-part .what{
+    text-align: center;
+}
+
+#skill-part .skill{
+    text-align: center;
+    margin-bottom: 13px;
+}
+
+#skill-part .skill-details{
+    text-align: center;
+}
+
+#skill-part .bar-r{
+    width: 100%;
+    right: 0;
+}
+/*===================== 
+skill-part end
+====================  */
+
+/*===================== 
+ourservice-part start
+====================  */
+
+#service-part{
+    padding-top: 54px;
+    padding-bottom: 0px;
+}
+
+.ser{
+    padding-right: 0;
+    margin-top: 20px;
+}
+
+.ser:hover .service-overlay{
+    width: 100%;
+}
+
+.service-item .icon-details .ui{
+    padding-bottom: 0;
+}
+
+#counter-part{
+    margin-top: 50px;
+}
+
+#counter-part .m-t{
+    margin-top: 30px;
+}
+
+#counter-part span{
+    font-size: 20px;
+}
+/*===================== 
+ourservice-part end
+====================  */
+
+/*===================== 
+profolio-part start
+====================  */
+
+#protfolio-part{
+    margin-top: 44px;
+}
+
+#protfolio-part .slick-list{
+    height: 312px;
+}
+
+#protfolio-part .m-b{
+    margin-bottom: 18px;
+}
+
+.prot-part-img{
+    margin-top: 0px;
+}
+
+#protfolio-part .prv{
+   top: 87%;
+    left: 40%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+    -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+}
+
+#protfolio-part .nxt{
+    top: 87%;
+     left: 60%;
+     transform: translateX(-50%);
+     margin-top: 15px;
+     -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+ }
+
+ #protfolio-part .slick-slide img{
+     width: 100%;
+ }
+
+ #protfolio-part .prot-img-details{
+     padding-bottom: 50px;
+ }
+
+ #protfolio-part .prot-img-details{
+     width: 100%;
+ }
+
+ #protfolio-part .browse{
+     margin-top: 60px;
+ }
+ 
+ #protfolio-part .prot-img-details2{
+     padding-bottom: 15px;
+ }
+
+ #protfolio-part .prot-img img{
+     width: 100%;
+ }
+
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+testimonial-part start
+====================  */
+#testimonial-part{
+    margin-top: 50px;
+}
+
+#testimonial-part .testi-item{
+    display: flow-root;
+}
+
+#testimonial-part .test{
+    padding-right: 0;
+}
+
+#testimonial-part .slick-slide img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#testimonial-part .testi-item{
+    margin-top: 100px;
+}
+
+#testimonial-part .testi-img{
+    position: absolute;
+    top: -25%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+#testimonial-part{
+    padding-top: 30px;
+    padding-bottom: 65px;
+}
+
+#testimonial-part .testi-details{
+    padding-top: 99px;
+    padding-bottom: 20px;
+}
+
+#testimonial-part .pri{
+    top: 92%;
+     left: 40%;
+     transform: translateX(-50%);
+     margin-top: 15px;
+     -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+ }
+ 
+ #testimonial-part .ne{
+     top: 92%;
+      left: 60%;
+      transform: translateX(-50%);
+      margin-top: 15px;
+      -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+  }
+/*===================== 
+testimonial-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+
+#blog-part{
+    margin-top: 0px;
+}
+
+#blog-part .m-b{
+    margin-bottom: -7px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .blg{
+    padding: 0;
+}
+
+#blog-part .browse{
+    margin-top: 30px;
+}
+
+#blog-details .categori h3{
+    margin-top: 30px;
+}
+
+
+#blog-part .pr{
+    top: 87%;
+     left: 40%;
+     transform: translateX(-50%);
+     margin-top: 15px;
+     -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+ }
+ 
+ #blog-part .nt{
+     top: 87%;
+      left: 60%;
+      transform: translateX(-50%);
+      margin-top: 15px;
+      -webkit-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+box-shadow: 1px 5px 25px 0px rgba(0,0,0,0.1);
+  }
+
+  #blog-part .p-r{
+      padding-right: 15px !important;
+  }
+
+  #blog-part .blog-list{
+      display: flow-root;
+  }
+
+  #blog-par .p-l{
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+
+  .blog-item .date{
+      margin-top: 15px;
+  }
+
+  #blog-part .categori{
+      margin-left: 10px;
+  }
+
+  #blog-part .categori ul span{
+      right: 4%;
+  }
+
+  #blog-part .popular-item-text h3{
+      font-size: 14px;
+  }
+
+  #blog-part .popular-item-text span{
+      margin-top: 0;
+  }
+
+  #blog-part .popular-item .overlay{
+      height: 95%;
+  }
+
+  #blog-part .blog-list-img{
+    margin-right: 0;
+}
+
+#blog-part .blog-list-img img{
+    width: 100%;
+}
+
+#blog-part .blog-item{
+    margin-top: 33px;
+}
+
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+#footer-part{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+#footer-part h3{
+    margin-top: 30px;
+}
+
+#footer-part a img{
+    margin-top: 30px;
+}
+
+#footer-part .footer-img li{
+    margin-bottom: 5px;
+    margin-right: 0;
+}
+
+#footer-bottom ul li{
+    margin-right: 0;
+}
+/*===================== 
+footer-part end
+====================  */
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    
+    /*===================== 
+navbar-part start
+====================  */
+#header-top{
+    height: 70px;
+    padding-top: 10px;
+}
+
+#header-top .wel{
+    line-height: 0;
+}
+
+#header-top .t-c{
+    text-align: center !important;
+}
+
+.navbar{
+    padding: 20px 10px;
+}
+
+nav{
+    height: 86px;
+}
+
+.navbar-collapse{
+    z-index: 222;
+}
+
+.navbar .navbar-nav{
+    text-align: center;
+    margin-top: 5px;
+    display: block;
+}
+
+.navbar .icon{
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+
+.srch-box input{
+    width: 90%;
+}
+
+.srch-box button{
+  left: 90%;
+
+}
+
+.srch-box .closebtn{
+    right: 15px;
+}
+
+.navbar-toggler{
+    padding: 5px;
+}
+
+.navbar ul{
+    background: #ffffff;
+}
+
+.navbar ul li{
+    padding: 3px 12px;
+    float: none;
+}
+
+.navbar ul li{
+    padding: 3px 12px;
+}
+
+/*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+banner-part start
+====================  */
+#banner-part{
+    padding: 62px 0;
+padding-bottom: 68px;
+}
+/*===================== 
+banner-part end
+====================  */
+
+/*===================== 
+about-part start
+====================  */
+#about-part{
+    margin-top: 65px;
+}
+
+#about-part img{
+    margin-top: 15px;
+}
+
+#about-part .about{
+    margin-bottom: 15px;
+}
+
+/*===================== 
+about-part end
+====================  */
+
+
+
+/*===================== 
+profolio-part start
+====================  */
+
+#protfolio-part{
+    margin-top: 50px;
+}
+
+.prot-part-img{
+    margin-top: 30px;
+}
+
+.prot-part-img{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#protfolio-part .prot-img-details{
+    width: 100%;
+}
+
+#protfolio-part .prv{
+    left: 30px;
+    top: 46%;
+}
+
+#protfolio-part .nxt{
+    right: calc(50% - 290px);
+    top: 46%;
+}
+
+#protfolio-part .slick-list{
+    height: 333px;
+}
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+testimonial-part start
+====================  */
+
+#testimonial-part{
+    margin-top: 70px;
+    padding: 40px 0;
+}
+
+#testimonial-part .testi-item{
+    margin-left: 10px;
+}
+
+#testimonial-part .testi-item{
+    margin-top: 30px;
+}
+
+#testimonial-part .testi-details{
+    padding-top: 18px;
+}
+
+#testimonial-part .san{
+    padding-top: 27px;
+}
+
+#testimonial-part .pri{
+    left: -10px;
+    top: calc(50% - -14px);
+}
+
+#testimonial-part .ne{
+    right: -10px;
+    top: calc(50% - -14px);
+}
+/*===================== 
+testimonial-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+
+#blog-part{
+    margin-top: 65px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .m-b{
+    margin-bottom: 26px;
+}
+
+#blog-part .blg{
+    padding: 0;
+}
+
+#blog-part .pr{
+    left: 20px;
+}
+
+#blog-details .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .nt{
+    right: -15px;
+}
+
+#blog-part .blog-list{
+    display: flow-root;
+    margin-top: 30px;
+}
+
+#blog-part .blog-list-img{
+    margin-right: 0;
+}
+
+#blog-part .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .blog-list-img img{
+    width: 100%;
+}
+
+#blog-part .browse{
+    margin-top: 8px;
+}
+
+.blog-item .date{
+    margin-top: 15px;
+}
+
+#blog-part .categori{
+    margin-left: 0;
+}
+
+#blog-part .popular-item .overlay{
+    height: 100%;
+}
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+
+#footer-part{
+    margin-top: 50px;
+}
+
+#footer-part .footer-img li{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+#footer-part .m-t{
+    margin-top: 30px;
+}
+
+#footer-part .p-l{
+    padding-left: 15px !important;
+}
+
+#footer-part .footer-icon li{
+    margin-right: 7px;
+}
+/*===================== 
+footer-part end
+====================  */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+     /*===================== 
+navbar-part start
+====================  */
+#header-top{
+    padding-top: 10px;
+}
+
+#header-top .wel{
+    line-height: 0;
+}
+
+.navbar{
+    padding: 20px 10px;
+}
+
+.navbar .navbar-nav{
+    text-align: center;
+    margin-top: 34px;
+    display: block;
+    background: #ffffff;
+}
+
+.navbar ul li{
+    padding: 4px 12px;
+    float: none;
+}
+
+.navbar .icon{
+    text-align: center;
+    background: #fff;
+margin-top: 0px;
+padding-bottom: 20px;
+}
+
+.srch-box input{
+    width: 90%;
+}
+
+.srch-box button{
+  left: 90%;
+
+}
+
+.srch-box .closebtn{
+    right: 15px;
+}
+
+.navbar-toggler{
+    padding: 5px;
+}
+/*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+skill-part start
+====================  */
+#skill-part .bar-r{
+    right: -37%;
+}
+/*===================== 
+skill-part end
+====================  */
+
+/*===================== 
+service-part start
+====================  */
+
+#service-part{
+    margin-top: 0;
+}
+
+#service-part .nx{
+    left: 49%;
+}
+
+.service-item .icon-details{
+    padding-top: 12px;
+    padding-right: 15px;
+}
+
+#comment-part{
+    margin-top: 20px !important;
+}
+
+/*===================== 
+service-part end
+====================  */
+
+/*===================== 
+profolio-part start
+====================  */
+
+#protfolio-part{
+    margin-top: 75px;
+}
+.prot-part-img{
+    margin-left: 15px;
+margin-right: 15px;
+}
+#protfolio-part .prot-img-details{
+    width: 100%;
+}
+
+#protfolio-part .prv{
+    left: 28px;
+}
+
+#protfolio-part .nxt{
+    right: -20px;
+}
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+#blog-part{
+    margin-top: 0px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .pr{
+    left: 18px;
+}
+
+#blog-part .nt{
+    right: -1px;
+}
+
+#blog-part .categori{
+    margin-left: 0;
+}
+
+#blog-part .categori ul span{
+    right: 4%;
+}
+
+#blog-details .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-part .categori h3{
+    margin-top: 30px;
+}
+
+#blog-part .tag a{
+    margin-right: 9px;
+}
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+
+#footer-part{
+    margin-top: 50px;
+}
+
+#footer-part .footer-img li{
+    margin-bottom: 9px;
+    margin-right: 9px;
+}
+
+#footer-part .m-t{
+    margin-top: 30px;
+}
+
+#footer-part .p-l{
+    padding-left: 15px !important;
+}
+
+#footer-part .footer-icon li{
+    margin-right: 7px;
+}
+/*===================== 
+footer-part end
+====================  */
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    /*===================== 
+navbar-part start
+====================  */
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/*===================== 
+navbar-part end
+====================  */
+
+/*===================== 
+skill-part start
+====================  */
+#skill-part .bar-r{
+    width: 100%;
+    right: 0;
+}
+
+/*===================== 
+skill-part end
+====================  */
+
+/*===================== 
+profolio-part start
+====================  */
+
+.prot-part-img{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#protfolio-part .prv{
+    left: calc(50% - 130px);
+    top: 41%;
+}
+
+#protfolio-part .nxt{
+    right: calc(50% - 180px);
+    top: 41%;
+}
+
+#protfolio-part .slick-list{
+    height: 395px;
+}
+
+#protfolio-part .prot-img-details{
+    width: 100%;
+}
+
+
+#testimonial-part .san{
+    padding-top: 6px;
+}
+
+/*===================== 
+profolio-part end
+====================  */
+
+/*===================== 
+testimonial-part start
+====================  */
+#testimonial-part .testi-item{
+    margin-left: 15px;
+}
+
+#testimonial-part .pri{
+    left: -12px;
+}
+
+
+/*===================== 
+testimonial-part end
+====================  */
+
+/*===================== 
+blog-part start
+====================  */
+#blog-part{
+    margin-top: 0px;
+}
+
+#blog-part .slick-slide img{
+    width: 100%;
+}
+
+#blog-part .pr{
+    left: calc(50% - 143px );
+}
+
+#blog-part .nt{
+    right: calc(50% - 163px );
+}
+
+#blog-part .popular-item-text h3{
+    font-size: 14px;
+}
+
+#blog-details .popular-item-text h3 a{
+    font-size: 14px;
+}
+
+#blog-part .popular-item-text span{
+    margin-top: 0;
+}
+
+#blog-part .popular-item .overlay{
+    height: 100%;
+}
+
+#blog-part .categori ul span{
+    right: 5%;
+}
+
+#blog-details .post-details h3 a{
+    font-size: 16px;
+}
+
+#blog-details .prre{
+    bottom: -18px;
+}
+
+#blog-details .nxxt{
+    bottom: -18px;
+    right: 33%;
+}
+
+/*===================== 
+blog-part end
+====================  */
+
+/*===================== 
+footer-part start
+====================  */
+
+#footer-part{
+    margin-top: 50px;
+}
+#footer-part .p-l{
+    padding-left: 15px !important;
+}
+
+#footer-part .footer-icon li{
+    margin-right: -1px;
+}
+
+#footer-part .footer-img li{
+    margin-right: -2px;
+    margin-bottom: 2px;
+}
+/*===================== 
+footer-part end
+====================  */
+
+}
